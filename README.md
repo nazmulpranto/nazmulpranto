@@ -6,7 +6,7 @@ I've completed Master of Science (MS) degree in Information Technology (IT) from
 
 Skills: SQA | Manual Testing | Test Case Writing | API Testing using Postman & Newman Report Generation | Performance Testing using JMeter | Web Automation |  HTML | CSS | JavaScript | WordPress
 
-- 🔭 I’m currently working on Service EngineBPO 
+- 🔭 I’m currently working on Service Engine BPO 
 - 🌱 I’m currently learning SQA & Cyber Security 
 
 
