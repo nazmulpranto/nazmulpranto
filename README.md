@@ -3,7 +3,7 @@
 
 I've completed Master of Science (MS) degree in Information Technology (IT) from Jahangirnagar University and Bachelor of Science (B.Sc) in Computer Science and Engineering (CSE) from Sylhet Engineering College affiliated with Shahjalal University of Science and Technology.
 
-Skills: SQA | Manual Testing | Test Case Writing | API Testing using Postman & Newman Report Generation | Performance Testing using JMeter | Web Automation |  HTML | CSS | JavaScript | WordPress
+####Skills: SQA | Manual Testing | Test Case Writing | API Testing using Postman & Newman Report Generation | Performance Testing using JMeter | Web Automation |  HTML | CSS | JavaScript | WordPress
 
 - 🔭 I’m currently working on Service Engine BPO 
 - 🌱 I’m currently learning SQA & Cyber Security 
