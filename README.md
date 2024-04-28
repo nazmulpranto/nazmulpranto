@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Md. Nazmul Alam
 #### Software Quality Assurance (SQA) Engineer
-![Software Quality Assurance (SQA) Engineer](https://media.licdn.com/dms/image/C5616AQHqEpQd9cVhww/profile-displaybackgroundimage-shrink_350_1400/0/1591912442951?e=1711584000&v=beta&t=hOijSS9c0u_qtSfiGEGqAclu9IiW1LGmmpYdfm4AgPs)
 
 I've completed Master of Science (MS) degree in Information Technology (IT) from Jahangirnagar University and Bachelor of Science (B.Sc) in Computer Science and Engineering (CSE) from Sylhet Engineering College affiliated with Shahjalal University of Science and Technology.
 
